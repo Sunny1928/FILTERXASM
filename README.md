@@ -17,24 +17,24 @@
 
 ### Sticker
 
-##### principle:
+#### principle:
 
 
 
-* ##### Capoo
-* ##### Frame1
-* ##### Frame2
-* ##### Flower
-* ##### Text
-* ##### Godzilla
+* ###### Capoo
+* ###### Frame1
+* ###### Frame2
+* ###### Flower
+* ###### Text
+* ###### Godzilla
 
 
 ### Double Exposure 
 
-* ##### Aurora
-* ##### Sea
-* ##### Sunset
-* ##### Firefly
+* ###### Aurora
+* ###### Sea
+* ###### Sunset
+* ###### Firefly
 
 
 ### 
