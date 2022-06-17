@@ -1,0 +1,4 @@
+﻿  Assembling Source.asm...
+Source.asm(576): warning A4006: too many arguments in macro call
+Source.asm(729): warning A4006: too many arguments in macro call
+  Project4.vcxproj -> C:\Users\513-3\source\repos\Project4\Debug\Project4.exe
