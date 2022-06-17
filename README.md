@@ -51,9 +51,9 @@ Processing bmp image in assembly language including readfile, writefile, differe
 
 ## Contributors
 
-|Yi-Cheng Liao |https://github.com/yeeecheng| 
-| :-----|:-----|
 |Yu-Yi Chuang | https://github.com/Sunny1928|
+| :-----|:-----|
+|Yi-Cheng Liao |https://github.com/yeeecheng| 
 |Yu-Yi Chu | https://github.com/Yui-Arthur|
 |Pin-Yu Li |https://github.com/Pinponyu|
 
