@@ -17,9 +17,11 @@
 
 ### Sticker
 
+##### principle:
+
+
 
 * ##### Capoo
-
 * ##### Frame1
 * ##### Frame2
 * ##### Flower
@@ -35,7 +37,7 @@
 * ##### Firefly
 
 
-
+### 
 
 
 
