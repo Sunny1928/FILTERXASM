@@ -21,7 +21,7 @@
 * ###### Godzilla
 
 #### Example:
-<img src=https://github.com/Sunny1928/FILTERXASM/blob/main/Project4/demo/2.bmp  width=30% /><img src=https://github.com/Sunny1928/FILTERXASM/blob/main/Project4/demo/2_a.bmp  width=30% />
+<img src=https://github.com/Sunny1928/FILTERXASM/blob/main/Project4/demo/2.bmp  width=30% />  <img src=https://github.com/Sunny1928/FILTERXASM/blob/main/Project4/demo/2_a.bmp  width=30% />
 
 
 ### Double Exposure 
@@ -32,8 +32,7 @@
 * ###### Firefly
 
 #### Example:
-<img src=https://github.com/Sunny1928/FILTERXASM/blob/main/Project4/demo/4.bmp  width=30% />
-<img src=https://github.com/Sunny1928/FILTERXASM/blob/main/Project4/demo/4_a.bmp  width=30% />
+<img src=https://github.com/Sunny1928/FILTERXASM/blob/main/Project4/demo/4.bmp  width=30% />  <img src=https://github.com/Sunny1928/FILTERXASM/blob/main/Project4/demo/4_a.bmp  width=30% />
 
 ### Collage
 
@@ -45,8 +44,7 @@
 * ###### Enlarge
 
 #### Example:
-<img src=https://github.com/Sunny1928/FILTERXASM/blob/main/Project4/demo/3.bmp  width=30% />
-<img src=https://github.com/Sunny1928/FILTERXASM/blob/main/Project4/demo/3_a.bmp  width=30% />
+<img src=https://github.com/Sunny1928/FILTERXASM/blob/main/Project4/demo/3.bmp  width=30% />  <img src=https://github.com/Sunny1928/FILTERXASM/blob/main/Project4/demo/3_a.bmp  width=30% />
 
 ### LUTs Adjustment
 
@@ -65,8 +63,7 @@
 * ###### Waves
 
 #### Example:
-<img src=https://github.com/Sunny1928/FILTERXASM/blob/main/Project4/demo/1.bmp  width=30% />
-<img src=https://github.com/Sunny1928/FILTERXASM/blob/main/Project4/demo/1_a.bmp  width=30% />
+<img src=https://github.com/Sunny1928/FILTERXASM/blob/main/Project4/demo/1.bmp  width=30% />  <img src=https://github.com/Sunny1928/FILTERXASM/blob/main/Project4/demo/1_a.bmp  width=30% />
 
 ## How to use ?
 
