@@ -5,7 +5,7 @@
 
 #### Processing bmp image in assembly language including readfile, writefile and different filter modes
 
-***
+<img src=https://github.com/Sunny1928/FILTERXASM/blob/main/Project4/demo/interface.png  width=70% />
 
 
 ## Interface 
