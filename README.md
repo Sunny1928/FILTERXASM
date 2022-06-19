@@ -65,11 +65,6 @@
 #### Example:
 <img src=https://github.com/Sunny1928/FILTERXASM/blob/main/Project4/demo/1.bmp  width=30% />  <img src=https://github.com/Sunny1928/FILTERXASM/blob/main/Project4/demo/1_a.bmp  width=30% />
 
-## How to use ?
-
-
-
-
 ## Contributors
 
 |Yu-Yi Chuang | https://github.com/Sunny1928|
@@ -77,5 +72,3 @@
 |Yi-Cheng Liao |https://github.com/yeeecheng| 
 |Yu-Yi Chu | https://github.com/Yui-Arthur|
 |Pin-Yu Li |https://github.com/Pinponyu|
-
-***
