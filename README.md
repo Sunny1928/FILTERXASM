@@ -21,8 +21,7 @@
 * ###### Godzilla
 
 #### Example:
-<img src=https://github.com/Sunny1928/FILTERXASM/blob/main/Project4/demo/2.bmp  width=30% />
-<img src=https://github.com/Sunny1928/FILTERXASM/blob/main/Project4/demo/2_a.bmp  width=30% />
+<img src=https://github.com/Sunny1928/FILTERXASM/blob/main/Project4/demo/2.bmp  width=30% /><img src=https://github.com/Sunny1928/FILTERXASM/blob/main/Project4/demo/2_a.bmp  width=30% />
 
 
 ### Double Exposure 
