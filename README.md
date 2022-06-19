@@ -5,13 +5,9 @@
 
 #### Processing bmp image in assembly language including readfile, writefile and different filter modes
 
-<img src=https://github.com/Sunny1928/FILTERXASM/blob/main/Project4/demo/interface.png  width=70% />
-
-
 ## Interface 
 
-
-***
+<img src=https://github.com/Sunny1928/FILTERXASM/blob/main/Project4/demo/interface.png  width=70% />
 
 ## Main Function 
 
@@ -25,6 +21,8 @@
 * ###### Godzilla
 
 #### Example:
+<img src=https://github.com/Sunny1928/FILTERXASM/blob/main/Project4/demo/1.bmp  width=50% />
+<img src=https://github.com/Sunny1928/FILTERXASM/blob/main/Project4/demo/1_a.bmp  width=50% />
 
 
 ### Double Exposure 
@@ -59,15 +57,10 @@
 * ###### Soft Black And White
 * ###### Waves
 
-
-
-***
-
 ## How to use ?
 
 
 
-*** 
 
 ## Contributors
 
